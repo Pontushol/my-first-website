@@ -7,6 +7,6 @@ to practice basic concepts of programming languages aswell as the use of Git and
 
 
 ### Technologies used
-#### HTML5
-#### CSS3
+The project is built using simple HTML5 and CSS3 and written using the Cloud9 IDE.
+Its backed up using Git and Github.
 
